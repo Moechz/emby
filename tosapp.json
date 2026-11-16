@@ -73,7 +73,7 @@
   "github_repo": "emby",
   "upstream_version": "4.10.2",
   "release_tag_prefix": "v",
-  "version": "4.10.2-1",
+  "version": "4.10.2-2",
   "help": "https://github.com/Moechz/emby/issues",
   "official": "https://github.com/MediaBrowser/Emby",
   "license": "GPL-2.0",
